@@ -10,7 +10,7 @@ I'm Hosna Qasmei a Software Engineer. I spend most of time keeping up to date on
 
 
 
-- 🔭 I’m currently working on Gameday.io
+- 🔭 I’m currently working on SportsTable.xyz
 - 🌱 I’m currently learning React Native, Full Stack Development and Machine Learning
 - 📫 How to reach me: hosna.qasmei@gmail.com
 
